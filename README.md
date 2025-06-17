@@ -6,6 +6,7 @@ I am proficient in C++, Java, Python, and the MERN stack. I love building real-w
 - 🌍  I'm based in **India (currently Pune)**
 - ✉️  Reach me at: **atharvadudhe125@gmail.com**
 - 🚀  Currently working on: **My Capstone Project – XPlayVerse**
+- 🔗 Check out my Capstone Project: [XPlayVerse](https://github.com/kalviumcommunity/S73_Atharva_Capstone_XPlayVerse)
 - 🤝  Open to collaboration on **MERN stack** and **AI-integrated** projects
 
 ---
