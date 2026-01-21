@@ -1,44 +1,60 @@
-# Hi 👋 My name is Atharva Dudhe  
-## Full Stack Web Developer & C++ Programmer
+<div align="center">
 
-I am proficient in C++, Java, Python, and the MERN stack. I love building real-world projects that solve everyday problems and push my technical boundaries.
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjE3em56b3NtaW96dG9rcXZnZDUydHplaXJmd2oydm02c3hkbXByMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" />
 
-- 🌍  I'm based in **India (currently Pune)**
-- ✉️  Reach me at: **atharvadudhe125@gmail.com**
-- 🚀  Currently working on: **My Capstone Project – XPlayVerse**
-- 🔗 Check out my Capstone Project: [XPlayVerse](https://github.com/kalviumcommunity/S73_Atharva_Capstone_XPlayVerse)
-- 🤝  Open to collaboration on **MERN stack** and **AI-integrated** projects
+</div>
+
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" />
+
+<div align="center">
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 12px;">
+
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="22"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2600&pause=1800&color=A9FEF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Atharva+Dudhe;Full+Stack+Web+Developer;+I+don't+build+websites%2C+I+build+experiences" />
+
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="22"/>
+
+</div>
+
+</div>
+
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" />
+
+<div align="center">
+
+<div align="center">
+<h2>
+
+👇🏻👇🏻  
+👉🏻 **[Visit My Portfolio](https://atharvadudhe.netlify.app/)** 👈🏻  
+👆🏻👆🏻  
+</h2>
+</div>
+
+
+</div>
 
 ---
 
-### 🛠 Skills
+## 🛠 Tech Stack
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,react,nextjs,vite,tailwind,css,bootstrap,materialui,nodejs,express,mongodb,mysql,redis,git,github,githubactions,docker,postman,jest,linux,apple&perline=8" />
+</p>
+
 
 ---
 
-### 🌐 Connect with Me
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/atharvadudhe)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:atharvadudhe125@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atharvadudhe&show_icons=true&theme=radical" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvadudhe&layout=compact&theme=radical" />
+</p>
 
-### 📊 GitHub Stats
-
-![Atharva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharvadudhe&show_icons=true&theme=radical)
-
-### 📈 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvadudhe&layout=compact&theme=radical)
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" />
